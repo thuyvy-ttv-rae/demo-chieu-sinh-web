@@ -1,0 +1,10 @@
+BEGIN
+	Input i;
+	Input j;
+	for (i = 1; i <= 3; i++)
+		turn right
+		for (j = 1; j <= 2; j++)
+		move forward
+		endfor
+	endfor
+END 
